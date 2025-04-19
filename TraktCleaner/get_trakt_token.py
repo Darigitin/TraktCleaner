@@ -2,8 +2,8 @@
 import json
 
 # --- Fill these out from your Trakt App ---
-CLIENT_ID = '1663abd66b1e1353a63f1d404f79611f7be0af309dff2521a557dde393f5be98'
-CLIENT_SECRET = 'a4d0c3037d8180da42e66c080989519f0f2a153e29b0ccb4fdf6e2fd29891cb0'
+CLIENT_ID = ''
+CLIENT_SECRET = ''
 REDIRECT_URI = 'urn:ietf:wg:oauth:2.0:oob'
 # ------------------------------------------
 
